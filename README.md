@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Banner - White Text -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF2E6B,50:8A2BE2,100:00D9FF&height=300&section=header&text=Testro&fontSize=60&fontColor=white&animation=twinkling&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF2E6B,50:8A2BE2,100:00D9FF&height=300&section=header&text=TESTRO&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=45" width="100%"/>
 
 <!-- Glowing Badges -->
 <p align="center">
@@ -15,7 +15,7 @@
 <div align="center">
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=450&height=50&lines=Davit+Mazlumyan;Testro;AI+Systems+Student"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=450&height=50&lines=Davit+Mazlumyan;TESTRO;AI+Systems+Student"/>
 </p>
 
 </div>
@@ -107,23 +107,23 @@ A **custom-trained depth estimation AI model** focused on real-time spatial unde
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Testro&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4&ring_color=00D9FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=TESTRO&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF69B4&ring_color=00D9FF" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Testro&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF69B4&currStreakLabel=00D9FF" width="49%" />
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Testro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" width="45%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Testro&theme=radical&utcOffset=8" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TESTRO&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF69B4&currStreakLabel=00D9FF" width="49%" />
 
 </div>
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=Testro&theme=radical&no-frame=true&row=1&column=7&margin-w=10" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TESTRO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" width="45%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TESTRO&theme=radical&utcOffset=8" width="45%" />
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=TESTRO&theme=radical&no-frame=true&row=1&column=7&margin-w=10" width="100%" />
 
 </div>
 
@@ -160,7 +160,7 @@ A **custom-trained depth estimation AI model** focused on real-time spatial unde
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Testro)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TESTRO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davit-mazlumyan-a76497420 )
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmazlumyan@gmail.com)
